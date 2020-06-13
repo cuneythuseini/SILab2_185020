@@ -29,6 +29,6 @@ Multiple Condition Nodes:8 & 10
 | Node | True | False |
 | :---         |     :---:      |          ---: |
 | 8   | T&&T     | F&&F    |
-| 9     | T&&T       | F&&F      |
+| 10     | T&&T       | F&&F      |
 
 ### Објаснување на напишаните unit tests
